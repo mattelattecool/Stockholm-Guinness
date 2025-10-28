@@ -1,0 +1,36 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f3f3f3;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2b2b2b;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.review {
+  background-color: white;
+  margin: 1rem auto;
+  padding: 1rem;
+  max-width: 600px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.review img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #2b2b2b;
+  color: white;
+  margin-top: 2rem;
+}
